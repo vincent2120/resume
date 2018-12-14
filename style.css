@@ -1,0 +1,106 @@
+body {
+	background:#111;
+}
+
+.all {
+	display: grid;
+	grid-template-columns: 1fr 2fr;
+	text-align: center;
+	font-family: Courier New;
+	background: #111;
+	color: white;
+}
+.left {
+	margin-top: 50px;
+	margin-left: 20px;
+	background: #666;
+	color: white;
+	border-radius: 10px;
+}
+.left p{
+	margin-left: 20px;
+	margin-right: 20px;
+	text-align: justify;
+
+}
+img {
+	border-radius: 50%;
+	
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+.fa-instagram {
+    background: #666;
+    color: white;
+}
+.fa-google {
+    background: #666;
+    color: white;
+}
+.fa-facebook {
+    background: #666;
+    color: white;
+}
+.one {
+	padding: 50px;
+	margin-top: 50px;
+	background: #f1f1f1;
+	color: black;
+}
+.una {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+}
+.box {
+	margin-left: 250px;
+	height: 1px;
+	width: 300px;
+	background: black;
+}
+.square {
+	margin-left: 80px;
+	height: 1px;
+	width: 250px;
+	background: white;
+}
+.skill {
+	padding: 5px;
+	border: white 2px solid;
+	border-radius: 5px;
+	display: inline-block;
+}
+.pro {
+	padding: 5px;
+	border: white 2px solid;
+	border-radius: 5px;
+	text-align: center;
+	display: inline-block;
+}
+
+.hmm {
+	margin-left: 50px;
+	text-align: left;
+}
+.gags {
+	padding: 5px;
+	border: white 2px solid;
+	border-radius: 5px;
+	text-align: center;
+	display: inline-block;
+}
+.last {
+	padding: 5px;
+	border: white 2px solid;
+	border-radius: 5px;
+	text-align: center;
+	display: inline-block;
+}
+.final {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+}
